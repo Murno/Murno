@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murno
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C++, Python, HTML, CSS
+- 🌱 I’m currently learning C++, HTML, CSS
 
 <!---
 Murno/Murno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
