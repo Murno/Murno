@@ -1,6 +1,6 @@
 -  Hi, I’m @Murno
 -  I’m interested in IT
--  I’m currently learning C++, HTML, CSS
+-  I’m currently learning C++, PHP
 <!-- -  Also I'm interested in mechanical keyboards -->
 
 <!---
