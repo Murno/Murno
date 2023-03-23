@@ -1,7 +1,6 @@
 -  Hi, I’m @Murno
 -  I’m interested in IT
--  I’m currently learning C++, PHP
-<!-- -  Also I'm interested in mechanical keyboards -->
+-  I’m currently learning C++
 
 <!---
 Murno/Murno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
