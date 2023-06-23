@@ -5,13 +5,24 @@
 <a href=url><img src="https://sun9-78.userapi.com/impg/fF37BLaRUTlBemQcVQpvW2KqIR-oIdqbzflRRg/upfF10YQF_U.jpg?size=1750x773&quality=96&sign=97b646e6867a8354cd826e106cc634e1&type=album" height=auto style="border-radius:1%" ></a>
 
 ```c
-main(argc, argv)
-int argc;
-char **argv;
+#define _ -F<00||--F-OO--;
+int F=00,OO=00;main(){F_OO();printf("%1.3f\n",4.*-F/OO/OO);}F_OO()
 {
-  while (*argv != argv[1] && (*argv = argv[1]) && (argc = 0) || (*++argv
-    && (**argv && ((++argc)[*argv] && (**argv <= argc[*argv] ||
-    (**argv += argc[*argv] -= **argv = argc[*argv] - **argv)) &&
-    --argv || putchar(**argv) && ++*argv--) || putchar(10))));
+            _-_-_-_
+       _-_-_-_-_-_-_-_-_
+    _-_-_-_-_-_-_-_-_-_-_-_
+  _-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+  _-_-_-_-_-_-_-_-_-_-_-_-_-_
+    _-_-_-_-_-_-_-_-_-_-_-_
+        _-_-_-_-_-_-_-_
+            _-_-_-_
 }
 ```
